@@ -20,13 +20,19 @@ This video showcases the functionality of the application
 
 ![Demo for App](./assets/Text-Editor.gif)
 
+##
+
 This image shows the manifest.json. 
 
 ![Demo for manifest](./assets/3DB85A44-E0EB-475E-8839-4FA7C96A0687.png)
 
+##
+
 This image shows the service worker.
 
 ![Demo for service worker](./assets/0728018A-435E-454C-89C8-191BA959A5B2.png)
+
+##
 
 This images shows the IndexedDB.
 
