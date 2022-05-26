@@ -32,3 +32,4 @@ This images shows the IndexedDB.
 
 ![Demo for IndexedDB](./assets/2070B7D9-E31B-41A0-99FC-FF0077B6A609.png)
 
+[Link to deployed application](https://nick-text-editor.herokuapp.com/)
